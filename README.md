@@ -1,7 +1,7 @@
-<h1>Interpréteur de commande pour jeux d'échec</h1>
+<h1>Command-line chess game</h1>
 
-Projet NFA032 - JAVA programmation objet - Janvier 2016
+JAVA OOP project in January 2016
 
-Travail réalisé : Classe projet et quelques modifications sur IGEchecs
-
-Interpréte et vérifie les coups en notation algébrique classique ou abrégée
+**Notes :** <br/>
+- Terminal and IGEchecs classes were provided, aside from a few changes to IGEchecs the core of the project is in the projet class<br/>
+- Algebraic notation and long algebraic notation
